@@ -1,0 +1,447 @@
+[
+    {
+        "title": "Bananas",
+        "price": 0.99,
+        "category": "produce"
+    },
+    {
+        "title": "Milk",
+        "price": 3.38,
+        "category": "dairy"
+    },
+    {
+        "title": "Whole Chicken",
+        "price": 4.99,
+        "category": "meat"
+    },
+    {
+        "title": "Eggs",
+        "price": 1.19,
+        "category": "dairy"
+    },
+    {
+        "title": "Apples",
+        "price": 1.39,
+        "category": "produce"
+    },
+    {
+        "title": "Cheerios",
+        "price": 3.64,
+        "category": "grains"
+    },
+    {
+        "title": "DiGiorno Pizza",
+        "price": 5,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Bread",
+        "price": 2.78,
+        "category": "bakery"
+    },
+    {
+        "title": "Butter",
+        "price": 2.98,
+        "category": "dairy"
+    },
+    {
+        "title": "Cucumber",
+        "price": 0.68,
+        "category": "produce"
+    },
+    {
+        "title": "Sour Cream",
+        "price": 1,
+        "category": "dairy"
+    },
+    {
+        "title": "Ground Beef",
+        "price": 7.48,
+        "category": "meat"
+    },
+    {
+        "title": "Green Bell Pepper",
+        "price": 0.68,
+        "category": "produce"
+    },
+    {
+        "title": "Iceberg Lettuce",
+        "price": 1.98,
+        "category": "produce"
+    },
+    {
+        "title": "Broccoli",
+        "price": 1.88,
+        "category": "produce"
+    },
+    {
+        "title": "Tomatos",
+        "price": 1.68,
+        "category": "produce"
+    },
+    {
+        "title": "Creamcheese",
+        "price": 1.96,
+        "category": "dairy"
+    },
+    {
+        "title": "Hass Avocados",
+        "price": 0.88,
+        "category": "produce"
+    },
+    {
+        "title": "Strawberries",
+        "price": 2.17,
+        "category": "produce"
+    },
+    {
+        "title": "Lemon",
+        "price": 0.64,
+        "category": "produce"
+    },
+    {
+        "title": "Grapes",
+        "price": 2.98,
+        "category": "produce"
+    },
+    {
+        "title": "Lime",
+        "price": 0.33,
+        "category": "produce"
+    },
+    {
+        "title": "Manwich Sloppy Joe",
+        "price": 1,
+        "category": "canned"
+    },
+    {
+        "title": "Milk Duds",
+        "price": 0.98,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Sour Patch Kids",
+        "price": 0.98,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Swedish Fish",
+        "price": 4.98,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Snickers",
+        "price": 0.78,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Jolly Rancher",
+        "price": 2.48,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Twix",
+        "price": 4.88,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Orange Juice",
+        "price": 5.58,
+        "category": "beverages"
+    },
+    {
+        "title": "Caprisun",
+        "price": 2.22,
+        "category": "beverages"
+    },
+    {
+        "title": "Coca-Cola",
+        "price": 8.18,
+        "category": "beverages"
+    },
+    {
+        "title": "Mountain Dew",
+        "price": 4.98,
+        "category": "beverages"
+    },
+    {
+        "title": "Pineapple Juice",
+        "price": 2.77,
+        "category": "beverages"
+    },
+    {
+        "title": "Cranberry Juice",
+        "price": 3.12,
+        "category": "beverages"
+    },
+    {
+        "title": "Iced Tea",
+        "price": 3.78,
+        "category": "beverages"
+    },
+    {
+        "title": "Pot Pie",
+        "price": 0.94,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Macaroni & Cheese",
+        "price": 10.78,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Red Baron Pizza",
+        "price": 3.5,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Tombstone Pizza",
+        "price": 3.28,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Southern Pecan Pie",
+        "price": 5.97,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Beef and Bean Burritos",
+        "price": 3.42,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Sweet Potatos Fries",
+        "price": 2.76,
+        "category": "frozenFoods"
+    },
+    {
+        "title": "Chocolate Chunk Cookies",
+        "price": 2.78,
+        "category": "bakery"
+    },
+    {
+        "title": "Strawberry Swirl Cheesecake",
+        "price": 5.98,
+        "category": "bakery"
+    },
+    {
+        "title": "Pumpkin Pie",
+        "price": 3.98,
+        "category": "bakery"
+    },
+    {
+        "title": "Hoagie Buns",
+        "price": 3.24,
+        "category": "bakery"
+    },
+    {
+        "title": "Hot Dogs Buns",
+        "price": 1.98,
+        "category": "bakery"
+    },
+    {
+        "title": "Glazed Donuts",
+        "price": 3.98,
+        "category": "bakery"
+    },
+    {
+        "title": "Cinnamon Toast Crunch",
+        "price": 3.64,
+        "category": "grains"
+    },
+    {
+        "title": "Spaghetti",
+        "price": 1.38,
+        "category": "grains"
+    },
+    {
+        "title": "Lasagne",
+        "price": 1.98,
+        "category": "grains"
+    },
+    {
+        "title": "Basmati Rice",
+        "price": 3.68,
+        "category": "grains"
+    },
+    {
+        "title": "Mini Wheats",
+        "price": 3.38,
+        "category": "grains"
+    },
+    {
+        "title": "Cinnamon Life",
+        "price": 2.77,
+        "category": "grains"
+    },
+    {
+        "title": "Blueberry Breakfast Bars",
+        "price": 4.24,
+        "category": "grains"
+    },
+    {
+        "title": "Ketchup",
+        "price": 2.78,
+        "category": "condiments"
+    },
+    {
+        "title": "Mustard",
+        "price": 1.38,
+        "category": "condiments"
+    },
+    {
+        "title": "Mayonnaise",
+        "price": 3.48,
+        "category": "condiments"
+    },
+    {
+        "title": "Chipotle Mayo",
+        "price": 2.74,
+        "category": "condiments"
+    },
+    {
+        "title": "Ranch Dressing",
+        "price": 2.96,
+        "category": "condiments"
+    },
+    {
+        "title": "Sriracha",
+        "price": 2.48,
+        "category": "condiments"
+    },
+    {
+        "title": "Dijon Mustard",
+        "price": 2.83,
+        "category": "condiments"
+    },
+    {
+        "title": "Milk Chocolate Baking Chips",
+        "price": 1.88,
+        "category": "baking"
+    },
+    {
+        "title": "Cornbread Mix",
+        "price": 1.98,
+        "category": "baking"
+    },
+    {
+        "title": "Chocolate Chip Muffin Mix",
+        "price": 2.18,
+        "category": "baking"
+    },
+    {
+        "title": "Baking Soda",
+        "price": 0.63,
+        "category": "baking"
+    },
+    {
+        "title": "Triple Fudge Brownie Mix",
+        "price": 1.88,
+        "category": "baking"
+    },
+    {
+        "title": "Blueberry Muffin Mix",
+        "price": 1.84,
+        "category": "baking"
+    },
+    {
+        "title": "Sweet Pees",
+        "price": 1.14,
+        "category": "canned"
+    },
+    {
+        "title": "Yams",
+        "price": 1.18,
+        "category": "canned"
+    },
+    {
+        "title": "Sliced Beets",
+        "price": 1.14,
+        "category": "canned"
+    },
+    {
+        "title": "Whole Green Beans",
+        "price": 0.78,
+        "category": "canned"
+    },
+    {
+        "title": "Chipotle Peppers",
+        "price": 1.38,
+        "category": "canned"
+    },
+    {
+        "title": "Jalapeno Peppers",
+        "price": 2.16,
+        "category": "canned"
+    },
+    {
+        "title": "Asparagus Spears",
+        "price": 2.98,
+        "category": "canned"
+    },
+    {
+        "title": "Sun-Dried Tomatoes",
+        "price": 3.94,
+        "category": "canned"
+    },
+    {
+        "title": "Half & Half",
+        "price": 2.98,
+        "category": "canned"
+    },
+    {
+        "title": "String Cheese",
+        "price": 2.96,
+        "category": "dairy"
+    },
+    {
+        "title": "Cottage Cheese",
+        "price": 2.12,
+        "category": "dairy"
+    },
+    {
+        "title": "Plain Yogurt",
+        "price": 4.58,
+        "category": "dairy"
+    },
+    {
+        "title": "Mild Cheddar Slices",
+        "price": 2.68,
+        "category": "dairy"
+    },
+    {
+        "title": "Pepper Jack Slices",
+        "price": 2.68,
+        "category": "dairy"
+    },
+    {
+        "title": "Pineapple Greek Yogurt",
+        "price": 3.28,
+        "category": "dairy"
+    },
+    {
+        "title": "Parmesan & Romano Cheese",
+        "price": 3.98,
+        "category": "dairy"
+    },
+    {
+        "title": "Colby Jack Shredded Cheese",
+        "price": 4.58,
+        "category": "dairy"
+    },
+    {
+        "title": "Cheez-It Crackers",
+        "price": 2.88,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Oreo Cookies",
+        "price": 2.98,
+        "category": "candyAndSnacks"
+    },
+    {
+        "title": "Harvest Chedder Chips",
+        "price": 2.98,
+        "category": "candyAndSnacks"
+    }
+]
